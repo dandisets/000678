@@ -100,6 +100,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-10-03T18:14:28.045050+00:00'
+datePublished: '2023-10-04T21:46:12.097668+00:00'
 description: Pupil diameter, face motion energy, and locomotion speed measures recorded
   during sensory discrimination behavior of head-fixed mice. Subjects classify the
   frequency of an auditory tone cloud stimulus, or the angle of a drifting Gabor patch,
@@ -115,7 +116,28 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000678/versions/draft/assets/
 name: Pupil and movement measurements during mouse auditory and visual discrimination
 protocol: []
-relatedResource: []
+publishedBy:
+  endDate: '2023-10-04T21:46:12.097668+00:00'
+  id: urn:uuid:c151012e-4d70-4c26-b260-31179676c621
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-10-04T21:46:12.097668+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:6d4849cc-117b-4f70-a487-7e69521ffcdc
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
+relatedResource:
+- name: Analysis code
+  relation: dcite:IsSupplementTo
+  repository: ''
+  schemaKey: Resource
+  url: https://github.com/sjara/uobrainflex/tree/master/hulsey2023
+- name: Decision-making dynamics are predicted by arousal and uninstructed movements
+  relation: dcite:IsPublishedIn
+  schemaKey: Resource
+  url: https://www.biorxiv.org/content/10.1101/2023.03.02.530651v2
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
