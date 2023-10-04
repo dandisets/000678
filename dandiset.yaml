@@ -24,7 +24,7 @@ assetsSummary:
   variableMeasured: []
 citation: Hulsey, Daniel; Zumwalt, Kevin; Mazzucato, Luca; McCormick, David A.; Jaramillo,
   Santiago (2023) Pupil and movement measurements during mouse auditory and visual
-  discrimination (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000678/draft
+  discrimination (Version 0.231004.2146) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000678/0.231004.2146
 contributor:
 - affiliation: []
   email: hulsey.daniel@gmail.com
@@ -106,14 +106,15 @@ description: Pupil diameter, face motion energy, and locomotion speed measures r
   frequency of an auditory tone cloud stimulus, or the angle of a drifting Gabor patch,
   at right or left lick ports. Data include 391 behavioral sessions from 13 subjects.
   For more information see the preprint at https://www.biorxiv.org/content/10.1101/2023.03.02.530651v2.
+doi: 10.48324/dandi.000678/0.231004.2146
 ethicsApproval: []
-id: DANDI:000678/draft
+id: DANDI:000678/0.231004.2146
 identifier: DANDI:000678
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000678/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000678/0.231004.2146/assets.yaml
 name: Pupil and movement measurements during mouse auditory and visual discrimination
 protocol: []
 publishedBy:
@@ -142,6 +143,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000678/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000678/0.231004.2146
+version: 0.231004.2146
 wasGeneratedBy: []
